@@ -12,6 +12,7 @@
     {"id":{"name":"oCurse","path":"objects/oCurse/oCurse.yy",},"order":15,},
     {"id":{"name":"oSand","path":"objects/oSand/oSand.yy",},"order":8,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
+    {"id":{"name":"rMaze","path":"rooms/rMaze/rMaze.yy",},"order":2,},
     {"id":{"name":"oDead","path":"objects/oDead/oDead.yy",},"order":5,},
     {"id":{"name":"oPyramid","path":"objects/oPyramid/oPyramid.yy",},"order":13,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":6,},
@@ -28,6 +29,7 @@
     {"id":{"name":"sPyramid","path":"sprites/sPyramid/sPyramid.yy",},"order":16,},
     {"id":{"name":"sEnemyR","path":"sprites/sEnemyR/sEnemyR.yy",},"order":7,},
     {"id":{"name":"oSun","path":"objects/oSun/oSun.yy",},"order":6,},
+    {"id":{"name":"sMazeFloor","path":"sprites/sMazeFloor/sMazeFloor.yy",},"order":20,},
     {"id":{"name":"sEnemyD","path":"sprites/sEnemyD/sEnemyD.yy",},"order":9,},
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},"order":18,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
@@ -36,6 +38,7 @@
     {"id":{"name":"sSand","path":"sprites/sSand/sSand.yy",},"order":12,},
     {"id":{"name":"shRed","path":"shaders/shRed/shRed.yy",},"order":1,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":4,},
+    {"id":{"name":"oMazeFloor","path":"objects/oMazeFloor/oMazeFloor.yy",},"order":16,},
     {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},"order":4,},
     {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},"order":14,},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":2,},
@@ -58,6 +61,7 @@
   "RoomOrder": [
     {"name":"Room1","path":"rooms/Room1/Room1.yy",},
     {"name":"rCutscene","path":"rooms/rCutscene/rCutscene.yy",},
+    {"name":"rMaze","path":"rooms/rMaze/rMaze.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
