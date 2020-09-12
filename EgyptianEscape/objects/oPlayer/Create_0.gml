@@ -7,4 +7,11 @@ hsp = 0;
 vsp = 0;
 grv = 0.3;
 walksp = 4;
+hp = 100;
+hp_max = hp;
+
+healthbar_width = 100;
+healthbar_height = 24;
+healthbar_x = (95) - (healthbar_width/2);
+healthbar_y = 730;
 
