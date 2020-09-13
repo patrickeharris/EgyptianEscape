@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(!completePickup && completeAD && completeSpace && completeShoot && animComplete){
+/*if(!completePickup && completeAD && completeSpace && completeShoot && animComplete){
     with(notComplete){
             instance_destroy();
         }
@@ -12,4 +12,4 @@ if(!completePickup && completeAD && completeSpace && completeShoot && animComple
             image_yscale = 0.2;
         }
         alarm[3] = 3*room_speed;
-}
+}*/
