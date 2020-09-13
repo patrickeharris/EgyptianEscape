@@ -11,3 +11,4 @@ with(notComplete){
 }
 text = "Press 'Space'";
 text2 = "To Jump";
+animComplete = true;

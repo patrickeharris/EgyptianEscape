@@ -11,3 +11,4 @@ with(notComplete){
 }
 text = "Click 'E' To";
 text2 = "Pickup Flashlight";
+animComplete = true;

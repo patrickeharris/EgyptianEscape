@@ -27,28 +27,5 @@ if(completedTutorial == true){
         tempVar = 1;
     }
 }
-if(mouse_check_button(mb_left) && !completeShoot && completeSpace && completeAD){
-    with(notComplete){
-            instance_destroy();
-        }
-        complete = instance_create_layer(x-570, y+15, "Text", oCheck);
-        completeShoot = true;
-        with(complete){
-            image_xscale = 0.2;
-            image_yscale = 0.2;
-        }
-        alarm[2] = 3*room_speed;
-}
 
-if(mouse_check_button(mb_left) && !completeFlashlight && completeSpace && completeAD && completeShoot && completePickup){
-    with(notComplete){
-            instance_destroy();
-        }
-        complete = instance_create_layer(x-570, y+15, "Text", oCheck);
-        completeFlashlight = true;
-        with(complete){
-            image_xscale = 0.2;
-            image_yscale = 0.2;
-        }
-        alarm[4] = 3*room_speed;
-}
+

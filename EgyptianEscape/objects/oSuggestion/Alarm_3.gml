@@ -13,3 +13,4 @@ with(notComplete){
 }
 text = "Left Click";
 text2 = "To Use Flashlight";
+animComplete = true;
