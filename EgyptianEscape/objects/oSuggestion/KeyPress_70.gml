@@ -1,11 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-/// @description Insert description here
-// You can write your code in this editor
-/// @description Insert description here
-// You can write your code in this editor
-if(mouse_check_button(mb_left) && !completeShoot && completeSpace && completeAD && animComplete){
-    completeShoot = true;
+if(!completeFlashlight && completeSpace && completeAD && completeShoot && completePickup && animComplete){
+    completeFlashlight = true;
     animComplete = false;
     with(notComplete){
             instance_destroy();
@@ -15,6 +11,5 @@ if(mouse_check_button(mb_left) && !completeShoot && completeSpace && completeAD 
             image_xscale = 0.2;
             image_yscale = 0.2;
         }
-        alarm[2] = 3*room_speed;
+        alarm[4] = 3*room_speed;
 }
-

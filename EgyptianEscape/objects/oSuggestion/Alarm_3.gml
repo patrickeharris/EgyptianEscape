@@ -11,6 +11,6 @@ with(notComplete){
     image_xscale = 0.2;
     image_yscale = 0.2;
 }
-text = "Left Click";
-text2 = "To Use Flashlight";
+text = "Press 'F' To Switch";
+text2 = "To Flashlight";
 animComplete = true;

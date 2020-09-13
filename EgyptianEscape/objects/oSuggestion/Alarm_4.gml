@@ -11,9 +11,7 @@ with(notComplete){
     image_xscale = 0.2;
     image_yscale = 0.2;
 }
-with(text_obj2){
-    instance_destroy();
-}
+
 text = "Enter The Pyramid";
 text2 = "";
 animComplete = true;
