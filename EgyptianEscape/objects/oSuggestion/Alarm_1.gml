@@ -11,3 +11,4 @@ with(notComplete){
 }
 text = "Left Click";
 text2 = "To Shoot";
+animComplete = true;

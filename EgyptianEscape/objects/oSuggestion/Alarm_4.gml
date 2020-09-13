@@ -16,3 +16,4 @@ with(text_obj2){
 }
 text = "Enter The Pyramid";
 text2 = "";
+animComplete = true;
