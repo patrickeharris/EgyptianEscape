@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sDoor2",
-    "path": "sprites/sDoor2/sDoor2.yy",
+    "name": "sTorchUnlit",
+    "path": "sprites/sTorchUnlit/sTorchUnlit.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oTorchLit","path":"objects/oTorchLit/oTorchLit.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oDoor2",
+  "name": "oTorchLit",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sDoor2",
-    "path": "sprites/sDoor2/sDoor2.yy",
+    "name": "sSandstone",
+    "path": "sprites/sSandstone/sSandstone.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oDoor2",
+  "name": "oMazeFloor",
   "tags": [],
   "resourceType": "GMObject",
 }

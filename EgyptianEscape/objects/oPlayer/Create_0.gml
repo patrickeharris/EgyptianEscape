@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 globalvar isGun;
+cutscene = false;
+hall = false;
+cutsceneT = 0;
 isGun = 0;
 gun = instance_create_layer(x, y, "Gun", oGun);
 hsp = 0;
