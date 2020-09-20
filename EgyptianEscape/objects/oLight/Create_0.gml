@@ -5,3 +5,5 @@ light_surface = surface_create(1920, 1080);
 
 layer_script_begin(light_layer, lights_begin);
 layer_script_end(light_layer, lights_end);
+layer_script_begin(light_layer, lights_begin2);
+layer_script_end(light_layer, lights_end2);

@@ -6,7 +6,7 @@ if(hasFlashlight){
             instance_destroy();
         }
         gun = instance_create_layer(x, y, "Gun", oFlashlight);
-        if(room == rMaze){
+        if(room == rMaze or room == rHallway){
             light = instance_create_layer(x, y, "Bullets", oLightSource);
         }
         isGun = 1;
@@ -15,7 +15,7 @@ if(hasFlashlight){
         with(gun){
             instance_destroy();
         }
-        if(room == rMaze){
+        if(room == rMaze or room == rHallway){
             with(light){
                 instance_destroy();
             }

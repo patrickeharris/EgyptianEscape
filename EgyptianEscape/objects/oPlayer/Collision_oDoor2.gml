@@ -1,3 +1,8 @@
 /// @description Insert description here
 // You can write your code in this edit
-room_goto(rCutscene);
+if(room == rMaze){
+    room_goto(rBoss);
+}
+if(room == rCutscene){
+    room_goto(rHallway);
+}

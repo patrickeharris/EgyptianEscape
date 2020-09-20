@@ -13,6 +13,9 @@ vsp += grv;
 if(place_meeting(x, y + 1, oWall)) && (key_jump)
 {
     vsp = -10
+    if(cutscene){
+        cutsceneT++;
+    }
 }
 
 //Horizontal Collision
@@ -70,3 +73,15 @@ if(hsp != 0)
 }
 
 
+if(cutscene){
+    with(cTextBox){
+        x = other.x - 200;
+        y = other.y - 130;
+    }
+}
+if(hall){
+    with(hTextBox){
+        x = other.x - 200;
+        y = other.y - 130;
+    }
+}
