@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sMazeFloor",
-    "path": "sprites/sMazeFloor/sMazeFloor.yy",
+    "name": "sSandstone",
+    "path": "sprites/sSandstone/sSandstone.yy",
   },
   "solid": false,
   "visible": true,
