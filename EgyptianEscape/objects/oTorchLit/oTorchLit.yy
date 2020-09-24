@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sTorchUnlit",
-    "path": "sprites/sTorchUnlit/sTorchUnlit.yy",
+    "name": "sTorchLit",
+    "path": "sprites/sTorchLit/sTorchLit.yy",
   },
   "solid": false,
   "visible": true,

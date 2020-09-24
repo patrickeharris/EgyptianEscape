@@ -23,9 +23,9 @@ if(oPlayer.cutsceneT == 2){
 }
 if(oPlayer.cutsceneT == 3){
     if((current_second %2) == 0){
-        cutsceneText = "Oh well! Who cares? Mummies aren't real.                                                               Press Space ->";
+        cutsceneText = "Oh well! Who cares? Mummies aren't real.                             Press Space ->";
     }else{
-            cutsceneText = "Oh well! Who cares? Mummies aren't real. ";
+            cutsceneText = "Oh well! Who cares? Mummies aren't real.";
     }
 }
 if(oPlayer.cutsceneT == 4){

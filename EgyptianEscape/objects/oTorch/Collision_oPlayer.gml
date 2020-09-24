@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 key_on = keyboard_check_pressed(ord("E"));
 if(key_on){
     if(lit == 0){
@@ -7,13 +5,11 @@ if(key_on){
         sprite_index = sTorchLit;
         light = instance_create_layer(x, y, "Bullets", oTorchLightSource);
     }
-    else if(lit==1){
-        lit = 0;
-        sprite_index = sTorchUnlit;
-        with(light){
-            instance_destroy();
-        }
-    }
-
-
+//    else if(lit==1){
+//        lit = 0;
+//        sprite_index = sTorchUnlit;
+//        with(light){
+//            instance_destroy();
+//        }
+//    }
 }

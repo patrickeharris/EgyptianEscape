@@ -6,7 +6,6 @@ function lights_end(){
         surface_reset_target();
         gpu_set_blendmode(bm_normal);
    
-   
         //surface_set_target(application_surface);
    
             camera_apply(camera_create_view(0,0, view_wport[view_current], view_hport[view_current]));
@@ -16,6 +15,5 @@ function lights_end(){
             gpu_set_blendmode(bm_normal);
        
         //surface_reset_target();
-   
     }
 }
