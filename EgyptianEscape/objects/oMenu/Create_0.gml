@@ -14,7 +14,7 @@ menu_committed = -1;
 menu_control = true;
 
 menu[2] = "New Game";
-menu[1] = "Continue";
+menu[1] = "Skip Tutorial";
 menu[0] = "Quit";
 
 menu_items = array_length_1d(menu);

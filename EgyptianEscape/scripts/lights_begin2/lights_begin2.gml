@@ -6,12 +6,8 @@ function lights_begin2(){
             iLight2.light_surface = surface_create(1920, 1080);
         }
         
-        
-        
         surface_set_target(iLight2.light_surface);
-        
-        
-        
+
         draw_clear_alpha(c_black, 1.0);
         gpu_set_blendmode(bm_add);
     }
