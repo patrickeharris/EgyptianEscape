@@ -9,7 +9,7 @@ function lights_end2(){
    
         //surface_set_target(application_surface);
    
-            camera_apply(camera_create_view(0,0, view_wport[view_current], view_hport[view_current]));
+            camera_apply(view_camera[0]);
    
             gpu_set_blendmode_ext(bm_dest_color, bm_zero);
             draw_surface(iLight2.light_surface, 0, 0);

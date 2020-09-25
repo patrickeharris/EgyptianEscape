@@ -18,3 +18,5 @@ healthbar_width = 100;
 healthbar_height = 24;
 healthbar_x = (95) - (healthbar_width/2);
 healthbar_y = 730;
+
+hit = 0;

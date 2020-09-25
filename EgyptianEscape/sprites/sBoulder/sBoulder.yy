@@ -1,0 +1,158 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 2,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 13,
+  "bbox_right": 85,
+  "bbox_top": 1,
+  "bbox_bottom": 70,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 100,
+  "height": 71,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"971f3ae4-2123-4136-b636-f1c7d303d3c7","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"971f3ae4-2123-4136-b636-f1c7d303d3c7","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"971f3ae4-2123-4136-b636-f1c7d303d3c7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc2423f3-5c40-4d74-b901-ed947b8889b8","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc2423f3-5c40-4d74-b901-ed947b8889b8","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"dc2423f3-5c40-4d74-b901-ed947b8889b8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4552ba34-5aeb-4254-bc7f-2c90c935bcc9","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4552ba34-5aeb-4254-bc7f-2c90c935bcc9","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"4552ba34-5aeb-4254-bc7f-2c90c935bcc9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8290a9ec-6d5d-488d-84eb-c39ab6c82d41","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8290a9ec-6d5d-488d-84eb-c39ab6c82d41","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"8290a9ec-6d5d-488d-84eb-c39ab6c82d41","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2648d5c0-af30-4c66-88f5-8758fee30c5d","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2648d5c0-af30-4c66-88f5-8758fee30c5d","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"2648d5c0-af30-4c66-88f5-8758fee30c5d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"001efd60-3701-4015-a805-84bd725f2bc7","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"001efd60-3701-4015-a805-84bd725f2bc7","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"001efd60-3701-4015-a805-84bd725f2bc7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a8b3b105-c7e6-4739-959e-42fbae6e16fe","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a8b3b105-c7e6-4739-959e-42fbae6e16fe","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"a8b3b105-c7e6-4739-959e-42fbae6e16fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ce6e50c4-a570-4300-8f1b-dfa3f89dd184","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ce6e50c4-a570-4300-8f1b-dfa3f89dd184","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"ce6e50c4-a570-4300-8f1b-dfa3f89dd184","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f53bf053-37df-46f5-bfcd-6557426ef68a","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f53bf053-37df-46f5-bfcd-6557426ef68a","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"f53bf053-37df-46f5-bfcd-6557426ef68a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"56643318-f07c-41f2-8a58-8c6380a53857","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"56643318-f07c-41f2-8a58-8c6380a53857","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"56643318-f07c-41f2-8a58-8c6380a53857","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"84d210a7-7269-4f2f-abdf-39a22d0a738b","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"84d210a7-7269-4f2f-abdf-39a22d0a738b","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"84d210a7-7269-4f2f-abdf-39a22d0a738b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ab58a247-2cc5-4670-ad5f-e2c2c8602803","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ab58a247-2cc5-4670-ad5f-e2c2c8602803","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"ab58a247-2cc5-4670-ad5f-e2c2c8602803","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"47dcafc1-a2be-4aa6-b9a5-6de3aecaf127","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"47dcafc1-a2be-4aa6-b9a5-6de3aecaf127","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"47dcafc1-a2be-4aa6-b9a5-6de3aecaf127","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b05fa13b-0f6c-4ef6-80fb-d8c85a71a540","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b05fa13b-0f6c-4ef6-80fb-d8c85a71a540","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"b05fa13b-0f6c-4ef6-80fb-d8c85a71a540","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2a0fe970-0d00-406d-8522-f19eb846f833","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2a0fe970-0d00-406d-8522-f19eb846f833","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"2a0fe970-0d00-406d-8522-f19eb846f833","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9529c0dd-0b8c-4c05-88a3-550d04ea4237","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9529c0dd-0b8c-4c05-88a3-550d04ea4237","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"9529c0dd-0b8c-4c05-88a3-550d04ea4237","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8c0fc94b-a2a9-4397-b5bf-8a20aebe60f6","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8c0fc94b-a2a9-4397-b5bf-8a20aebe60f6","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"8c0fc94b-a2a9-4397-b5bf-8a20aebe60f6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3648f420-fff5-4a0f-afe3-14f270552b71","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3648f420-fff5-4a0f-afe3-14f270552b71","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"3648f420-fff5-4a0f-afe3-14f270552b71","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"023cfd80-5a7e-452b-971e-685748573eff","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"023cfd80-5a7e-452b-971e-685748573eff","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"023cfd80-5a7e-452b-971e-685748573eff","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1bf75fc1-e8e5-4695-8e92-728aeaf4b7ce","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1bf75fc1-e8e5-4695-8e92-728aeaf4b7ce","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"1bf75fc1-e8e5-4695-8e92-728aeaf4b7ce","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c25c93a7-d112-4694-a101-bad80e89e00b","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c25c93a7-d112-4694-a101-bad80e89e00b","path":"sprites/sBoulder/sBoulder.yy",},"LayerId":{"name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","name":"c25c93a7-d112-4694-a101-bad80e89e00b","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 0.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 21.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"44fec5be-b7e0-4fb9-95fd-db4598732300","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"971f3ae4-2123-4136-b636-f1c7d303d3c7","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9cbe307a-4898-4a8e-9e5d-983fbe7eb548","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc2423f3-5c40-4d74-b901-ed947b8889b8","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ce8271ca-b057-4d63-9621-183d0dd2b357","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4552ba34-5aeb-4254-bc7f-2c90c935bcc9","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4b4c4e20-5e6b-4c05-a4d7-a5342f84c90b","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8290a9ec-6d5d-488d-84eb-c39ab6c82d41","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a912fbdd-2999-4bfe-b8c4-299597d0bdd6","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2648d5c0-af30-4c66-88f5-8758fee30c5d","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f0e88b70-7050-4618-8776-96ddf8a8e6a7","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"001efd60-3701-4015-a805-84bd725f2bc7","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a35f0801-1c97-4315-983c-449f704faf4c","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a8b3b105-c7e6-4739-959e-42fbae6e16fe","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"56c26321-1167-4564-9c74-482b96760ef9","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ce6e50c4-a570-4300-8f1b-dfa3f89dd184","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"18abdb99-7be2-4e84-8073-6c6a94d83816","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f53bf053-37df-46f5-bfcd-6557426ef68a","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"caa55826-2381-4f0a-8699-a1ed6d26d412","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"56643318-f07c-41f2-8a58-8c6380a53857","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"185a818f-dbc5-4296-b9b2-82b4e88e29b3","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"84d210a7-7269-4f2f-abdf-39a22d0a738b","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"079933eb-1c93-424b-afb3-943fe9ace449","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ab58a247-2cc5-4670-ad5f-e2c2c8602803","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e6486424-04b3-46ab-967e-d609ab176ab9","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"47dcafc1-a2be-4aa6-b9a5-6de3aecaf127","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6c16c999-65cd-4eeb-bc52-2ba8ee170825","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b05fa13b-0f6c-4ef6-80fb-d8c85a71a540","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"41f71213-aa79-406d-b8ed-693c14f0eb78","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2a0fe970-0d00-406d-8522-f19eb846f833","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"23455fff-fb74-4917-9a60-5c859397b995","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9529c0dd-0b8c-4c05-88a3-550d04ea4237","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4cc6ef26-800a-4590-9bad-63a810d0ef2f","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8c0fc94b-a2a9-4397-b5bf-8a20aebe60f6","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9f396093-6ccb-4ada-a7a0-6465e6bfcd9c","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3648f420-fff5-4a0f-afe3-14f270552b71","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f610ea70-a09f-46d1-9e02-19b4bb8845ea","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"023cfd80-5a7e-452b-971e-685748573eff","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b3c64e4d-cc07-44cd-a253-736ff07da9e4","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1bf75fc1-e8e5-4695-8e92-728aeaf4b7ce","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0c8bbf09-4fb2-4007-9e9c-9578688368ca","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c25c93a7-d112-4694-a101-bad80e89e00b","path":"sprites/sBoulder/sBoulder.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 50,
+    "yorigin": 35,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},
+    "resourceVersion": "1.3",
+    "name": "sBoulder",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7463c382-1dcf-4ac9-bfe2-cd698d357e42","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "sBoulder",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

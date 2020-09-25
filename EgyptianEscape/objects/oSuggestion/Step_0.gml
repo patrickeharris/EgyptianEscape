@@ -22,6 +22,11 @@ if(completedTutorial == true){
             x += 10;
         }
     }
+    with(complete){
+        if(x < 2030){
+            x += 10;
+        }
+    }
     if(tempVar == 0){
         alarm[5] = 2*room_speed;
         tempVar = 1;
