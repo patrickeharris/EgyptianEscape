@@ -15,6 +15,8 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oSuggestion","path":"objects/oSuggestion/oSuggestion.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1632.0,"y":0.0,"resourceVersion":"1.0","name":"inst_62B08024","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oAmmoDisplay","path":"objects/oAmmoDisplay/oAmmoDisplay.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":-96.0,"resourceVersion":"1.0","name":"inst_409A931","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oAmmo","path":"objects/oAmmo/oAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":736.0,"resourceVersion":"1.0","name":"inst_7E2CDA14","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Text","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Bullets","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -163,6 +165,8 @@
     {"name":"inst_5836B982","path":"rooms/rTutorial/rTutorial.yy",},
     {"name":"inst_45BD5F17","path":"rooms/rTutorial/rTutorial.yy",},
     {"name":"inst_53D15E64","path":"rooms/rTutorial/rTutorial.yy",},
+    {"name":"inst_409A931","path":"rooms/rTutorial/rTutorial.yy",},
+    {"name":"inst_7E2CDA14","path":"rooms/rTutorial/rTutorial.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

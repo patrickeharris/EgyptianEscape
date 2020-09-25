@@ -5,11 +5,13 @@ if(!completeTemple && completeAD && completeSpace && completeShoot && completePi
     with(notComplete){
             instance_destroy();
     }
-    complete = instance_create_layer(x-570, y+15, "Text", oCheck);
-    completeAD = true;
-    with(complete){
-        image_xscale = 0.2;
-        image_yscale = 0.2;
+    with(oSuggestion){
+        complete = instance_create_layer(x-570, y+15, "Text", oCheck);
+        completeAD = true;
+        with(complete){
+            image_xscale = 0.2;
+            image_yscale = 0.2;
+        }
+        completedTutorial = true;
     }
-    completedTutorial = true;
 }

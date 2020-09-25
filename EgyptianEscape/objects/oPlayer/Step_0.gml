@@ -85,3 +85,7 @@ if(hall){
         y = other.y - 130;
     }
 }
+if(hit==1){
+    hit = 2;
+    alarm[1] = 2 * room_speed;
+}
