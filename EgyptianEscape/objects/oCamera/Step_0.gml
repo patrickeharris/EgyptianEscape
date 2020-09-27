@@ -20,8 +20,8 @@ x += (xTo - x) / 15;
 y += (yTo - y) / 15;
 
 // Keep within room
-x = clamp(x, temp_cam_w_half+buff, room_width-temp_cam_w_half-buff);
-y = clamp(y, temp_cam_h_half+buff, room_height-temp_cam_h_half-buff);
+x = clamp(x, temp_cam_w_half+buff-20, room_width-temp_cam_w_half-buff+20);
+y = clamp(y, temp_cam_h_half+buff-20, room_height-temp_cam_h_half-buff+20);
 
 // Camera shake
 x += random_range(-shake_remain, shake_remain);
