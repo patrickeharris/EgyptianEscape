@@ -81,11 +81,24 @@ if(cutscene){
 }
 if(hall){
     with(hTextBox){
-        x = other.x - 200;
-        y = other.y - 130;
+        if(room == rMaze){
+            x = other.x;
+            y = other.y;
+        }
+        else{
+            x = other.x - 200;
+            y = other.y - 130;
+        }
     }
 }
 if(hit==1){
     hit = 2;
     alarm[1] = 2 * room_speed;
+}
+if(hp <= 0){
+    respawn = room;
+    if(audio_is_playing(songBoss)){
+        audio_stop_sound(songBoss);
+    }
+    room_goto(rLose);
 }

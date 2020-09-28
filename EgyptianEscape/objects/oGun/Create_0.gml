@@ -3,4 +3,6 @@
 firingdelay = 0;
 recoil = 0;
 globalvar ammo;
-ammo = 20;
+if(room == rTutorial) or (room==rCutscene){
+    ammo = 20;
+}

@@ -7,5 +7,8 @@ if(hp <= 0){
             image_xscale = sign(hsp);
         }
     }
+    if(audio_is_playing(songBoss)){
+    audio_stop_sound(songBoss);
+    }
     instance_destroy();
 }

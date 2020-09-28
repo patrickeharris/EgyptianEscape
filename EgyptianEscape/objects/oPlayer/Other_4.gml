@@ -11,6 +11,12 @@ if(room != rTutorial){
 if(room == rJump){
     with(oCamera){
        zoomLevel = 1;
-       alarm[0] = 6 * room_speed;
+       alarm[0] = 5 * room_speed;
     }
+    hTextBox = instance_create_layer(x, y, "Text", oApeTextbox);
+    hall = true;
+}
+if(room == rMaze){
+    hTextBox = instance_create_layer(x, y, "Text", oMazeTextbox);
+    hall = true;
 }

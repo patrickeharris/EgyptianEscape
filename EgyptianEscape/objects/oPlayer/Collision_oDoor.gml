@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(!completeTemple && completeAD && completeSpace && completeShoot && completePickup && completeFlashlight){
+if(!completeTemple && hasAmmo && completeAD && completeSpace && completeShoot && completePickup && completeFlashlight){
     completeTemple = true;
     with(notComplete){
             instance_destroy();
