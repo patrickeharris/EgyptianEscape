@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 globalvar isGun;
+globalvar respawn;
+respawn = rCutscene;
 cutscene = false;
 hall = false;
 cutsceneT = 0;
@@ -20,3 +22,7 @@ healthbar_x = (95) - (healthbar_width/2);
 healthbar_y = 730;
 
 hit = 0;
+
+if(audio_is_playing(songTitle)){
+    audio_stop_sound(songTitle);
+}

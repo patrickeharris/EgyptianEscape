@@ -11,5 +11,5 @@ if(!completeFlashlight && completeSpace && completeAD && completeShoot && comple
             image_xscale = 0.2;
             image_yscale = 0.2;
         }
-        alarm[4] = 3*room_speed;
+        alarm[6] = 3*room_speed;
 }
